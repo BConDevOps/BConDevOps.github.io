@@ -6,7 +6,7 @@ permalink: /about.html
 ---
 
 ### Richard Robberse
-<img src="{{site.imagesurl}}/site/richard.jpg" style="display: block; margin: auto;width:300px;height:300px;" /> <br>
+<img src="{{site.imagesurl}}/site/richard.jpg" style="width:250px;height:250px; margin: auto;" /> <br>
 
 [LinkedIn](https://www.linkedin.com/in/richard-robberse/) <br>
 [Blog](https://robberse-it-services.nl/blog)
