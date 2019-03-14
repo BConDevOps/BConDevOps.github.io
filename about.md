@@ -6,7 +6,7 @@ permalink: /about.html
 ---
 
 ### Richard Robberse
-![Test]({{site.url}}/_images/AzureDevOps.jpg) <br>
+[[/_images/AzureDevOps.jpg|alt=octocat]] <br>
 [LinkedIn](https://www.linkedin.com/in/richard-robberse/) <br>
 [Blog](https://robberse-it-services.nl/blog)
 
