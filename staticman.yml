@@ -1,1 +1,19 @@
+branch: "master"
+commitMessage: "You have a new comment on your website."
+extension: "md"
+filename: "{@id}"
+format: "frontmatter"
+generatedFields:
+  date:
+    type: date
+    options:
+      format: "iso8601"
+moderation: true
+name: "BConDevOps.github.io"
+notifications:
+  enabled: false
+path: _comments
 allowedFields: ["name", "email", "message"]
+transforms:
+  body: "frontmatterContent"
+  email: md5
